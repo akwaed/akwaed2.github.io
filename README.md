@@ -21,3 +21,6 @@ As a developer, I want to be able to easily modify the code.
 - This code is written in Python and requires Tweepy and an OpenAI API key to run.
 - The bot will continuously run and search for mentions of its own Twitter handle. To stop -the bot, you must manually terminate the process.
 - The GPT-3.5 model used by this bot requires an active OpenAI API key, which must be set   up prior to running the bot.
+
+# Code
+[current version of the code](/TwiBot.py)
